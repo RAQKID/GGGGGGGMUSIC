@@ -4,7 +4,7 @@ module.exports = {
     identifier: 'NODE-MAIN-2',
     host: '37.114.42.191',
     password: 'danteisnttaken',
-    port: 7519,
+    port: 6767,
     secure: false,
   }],
   prefix: '!',
